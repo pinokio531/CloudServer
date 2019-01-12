@@ -1,0 +1,7 @@
+1. server 시작
+2. client 연결 요청
+3. 연결 시 "hello, world" 출력
+4. 접속 종료
+
+*telnet 106.10.59.53 900 응답됨
+*telnet 으로 접속 시 "hello, world" 출력 후 바로 종료

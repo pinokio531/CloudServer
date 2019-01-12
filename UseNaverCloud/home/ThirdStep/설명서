@@ -1,0 +1,11 @@
+1. server 시작
+2. client 연결 요청
+3. 연결 시 문자 입력가능
+4. "inu" 입력 시 "hi, inu" 출력
+4. "incheon" 입력 시 "welcom, incheon" 출력
+5. ctrl + c 전 까지 계속 입력 가능
+
+*telnet 106.10.59.53 900 응답됨
+*telnet 으로 접속 시 입력가능
+*"inu" 입력 시 "hi, inu" 출력 후 바로 종료
+*"incheon" 입력 시 "welcom, incheon" 출력 후 바로 종료
